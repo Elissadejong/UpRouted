@@ -1,0 +1,185 @@
+,country_code,country_name,country_border_code,country_border_name
+0,AND,Andorra,FRA,France
+1,AND,Andorra,ESP,Spain
+12,ALB,Albania,GRC,Greece
+13,ALB,Albania,MNE,Montenegro
+14,ALB,Albania,MKD,North Macedonia
+15,ALB,Albania,SRB,Serbia
+31,AUT,Austria,CZE,Czechia
+32,AUT,Austria,DEU,Germany
+33,AUT,Austria,HUN,Hungary
+34,AUT,Austria,ITA,Italy
+35,AUT,Austria,LIE,Liechtenstein
+36,AUT,Austria,SVK,Slovakia
+37,AUT,Austria,SVN,Slovenia
+38,AUT,Austria,CHE,Switzerland
+43,AZE,Azerbaijan,GEO,Georgia
+45,AZE,Azerbaijan,RUS,Russian Federation
+46,AZE,Azerbaijan,TUR,Turkey
+47,BIH,Bosnia and Herzegovina,HRV,Croatia
+48,BIH,Bosnia and Herzegovina,MNE,Montenegro
+49,BIH,Bosnia and Herzegovina,SRB,Serbia
+53,BEL,Belgium,FRA,France
+54,BEL,Belgium,DEU,Germany
+55,BEL,Belgium,LUX,Luxembourg
+56,BEL,Belgium,NLD,Netherlands
+63,BGR,Bulgaria,GRC,Greece
+64,BGR,Bulgaria,MKD,North Macedonia
+65,BGR,Bulgaria,ROU,Romania
+66,BGR,Bulgaria,SRB,Serbia
+67,BGR,Bulgaria,TUR,Turkey
+103,BLR,Belarus,LVA,Latvia
+104,BLR,Belarus,LTU,Lithuania
+105,BLR,Belarus,POL,Poland
+106,BLR,Belarus,RUS,Russian Federation
+107,BLR,Belarus,UKR,Ukraine
+132,CHE,Switzerland,AUT,Austria
+133,CHE,Switzerland,FRA,France
+134,CHE,Switzerland,DEU,Germany
+135,CHE,Switzerland,ITA,Italy
+136,CHE,Switzerland,LIE,Liechtenstein
+180,CZE,Czechia,AUT,Austria
+181,CZE,Czechia,DEU,Germany
+182,CZE,Czechia,POL,Poland
+183,CZE,Czechia,SVK,Slovakia
+184,DEU,Germany,AUT,Austria
+185,DEU,Germany,BEL,Belgium
+186,DEU,Germany,CZE,Czechia
+187,DEU,Germany,DNK,Denmark
+188,DEU,Germany,FRA,France
+189,DEU,Germany,LUX,Luxembourg
+190,DEU,Germany,NLD,Netherlands
+191,DEU,Germany,POL,Poland
+192,DEU,Germany,CHE,Switzerland
+196,DNK,Denmark,DEU,Germany
+208,EST,Estonia,LVA,Latvia
+209,EST,Estonia,RUS,Russian Federation
+220,ESP,Spain,AND,Andorra
+221,ESP,Spain,FRA,France
+222,ESP,Spain,GIB,Gibraltar
+224,ESP,Spain,PRT,Portugal
+231,FIN,Finland,NOR,Norway
+232,FIN,Finland,RUS,Russian Federation
+233,FIN,Finland,SWE,Sweden
+238,FRA,France,AND,Andorra
+239,FRA,France,BEL,Belgium
+240,FRA,France,DEU,Germany
+241,FRA,France,ITA,Italy
+242,FRA,France,LUX,Luxembourg
+243,FRA,France,MCO,Monaco
+244,FRA,France,ESP,Spain
+245,FRA,France,CHE,Switzerland
+249,GBR,United Kingdom of Great Britain and Northern Ireland,IRL,Ireland
+252,GEO,Georgia,AZE,Azerbaijan
+253,GEO,Georgia,RUS,Russian Federation
+254,GEO,Georgia,TUR,Turkey
+261,GIB,Gibraltar,ESP,Spain
+273,GRC,Greece,ALB,Albania
+274,GRC,Greece,BGR,Bulgaria
+275,GRC,Greece,MKD,North Macedonia
+276,GRC,Greece,TUR,Turkey
+293,HRV,Croatia,BIH,Bosnia and Herzegovina
+294,HRV,Croatia,HUN,Hungary
+295,HRV,Croatia,MNE,Montenegro
+296,HRV,Croatia,SRB,Serbia
+297,HRV,Croatia,SVN,Slovenia
+299,HUN,Hungary,AUT,Austria
+300,HUN,Hungary,HRV,Croatia
+301,HUN,Hungary,ROU,Romania
+302,HUN,Hungary,SRB,Serbia
+303,HUN,Hungary,SVK,Slovakia
+304,HUN,Hungary,SVN,Slovenia
+305,HUN,Hungary,UKR,Ukraine
+309,IRL,Ireland,GBR,United Kingdom of Great Britain and Northern Ireland
+337,ITA,Italy,AUT,Austria
+338,ITA,Italy,FRA,France
+339,ITA,Italy,SMR,San Marino
+340,ITA,Italy,SVN,Slovenia
+341,ITA,Italy,CHE,Switzerland
+342,ITA,Italy,VAT,Holy See
+375,KAZ,Kazakhstan,RUS,Russian Federation
+386,LIE,Liechtenstein,AUT,Austria
+387,LIE,Liechtenstein,CHE,Switzerland
+393,LTU,Lithuania,BLR,Belarus
+394,LTU,Lithuania,LVA,Latvia
+395,LTU,Lithuania,POL,Poland
+396,LTU,Lithuania,RUS,Russian Federation
+397,LUX,Luxembourg,BEL,Belgium
+398,LUX,Luxembourg,DEU,Germany
+399,LUX,Luxembourg,FRA,France
+400,LVA,Latvia,BLR,Belarus
+401,LVA,Latvia,EST,Estonia
+402,LVA,Latvia,LTU,Lithuania
+403,LVA,Latvia,RUS,Russian Federation
+413,MCO,Monaco,FRA,France
+414,MDA,Moldova (the Republic of),ROU,Romania
+415,MDA,Moldova (the Republic of),UKR,Ukraine
+416,MNE,Montenegro,ALB,Albania
+417,MNE,Montenegro,BIH,Bosnia and Herzegovina
+418,MNE,Montenegro,HRV,Croatia
+419,MNE,Montenegro,SRB,Serbia
+423,MKD,North Macedonia,ALB,Albania
+424,MKD,North Macedonia,BGR,Bulgaria
+425,MKD,North Macedonia,GRC,Greece
+426,MKD,North Macedonia,SRB,Serbia
+486,NLD,Netherlands,BEL,Belgium
+487,NLD,Netherlands,DEU,Germany
+488,NOR,Norway,FIN,Finland
+489,NOR,Norway,RUS,Russian Federation
+490,NOR,Norway,SWE,Sweden
+513,POL,Poland,BLR,Belarus
+514,POL,Poland,CZE,Czechia
+515,POL,Poland,DEU,Germany
+516,POL,Poland,LTU,Lithuania
+517,POL,Poland,RUS,Russian Federation
+518,POL,Poland,SVK,Slovakia
+519,POL,Poland,UKR,Ukraine
+526,PRT,Portugal,ESP,Spain
+533,ROU,Romania,BGR,Bulgaria
+534,ROU,Romania,HUN,Hungary
+535,ROU,Romania,MDA,Moldova (the Republic of)
+536,ROU,Romania,SRB,Serbia
+537,ROU,Romania,UKR,Ukraine
+538,SRB,Serbia,ALB,Albania
+539,SRB,Serbia,BIH,Bosnia and Herzegovina
+540,SRB,Serbia,BGR,Bulgaria
+541,SRB,Serbia,HRV,Croatia
+542,SRB,Serbia,HUN,Hungary
+543,SRB,Serbia,MNE,Montenegro
+544,SRB,Serbia,MKD,North Macedonia
+545,SRB,Serbia,ROU,Romania
+546,RUS,Russian Federation,AZE,Azerbaijan
+547,RUS,Russian Federation,BLR,Belarus
+549,RUS,Russian Federation,EST,Estonia
+550,RUS,Russian Federation,FIN,Finland
+551,RUS,Russian Federation,GEO,Georgia
+552,RUS,Russian Federation,KAZ,Kazakhstan
+554,RUS,Russian Federation,LVA,Latvia
+555,RUS,Russian Federation,LTU,Lithuania
+557,RUS,Russian Federation,NOR,Norway
+558,RUS,Russian Federation,POL,Poland
+559,RUS,Russian Federation,UKR,Ukraine
+580,SWE,Sweden,FIN,Finland
+581,SWE,Sweden,NOR,Norway
+584,SVN,Slovenia,AUT,Austria
+585,SVN,Slovenia,HRV,Croatia
+586,SVN,Slovenia,HUN,Hungary
+587,SVN,Slovenia,ITA,Italy
+589,SVK,Slovakia,AUT,Austria
+590,SVK,Slovakia,CZE,Czechia
+591,SVK,Slovakia,HUN,Hungary
+592,SVK,Slovakia,POL,Poland
+593,SVK,Slovakia,UKR,Ukraine
+596,SMR,San Marino,ITA,Italy
+654,TUR,Turkey,AZE,Azerbaijan
+655,TUR,Turkey,BGR,Bulgaria
+656,TUR,Turkey,GEO,Georgia
+657,TUR,Turkey,GRC,Greece
+672,UKR,Ukraine,BLR,Belarus
+673,UKR,Ukraine,HUN,Hungary
+674,UKR,Ukraine,MDA,Moldova (the Republic of)
+675,UKR,Ukraine,POL,Poland
+676,UKR,Ukraine,ROU,Romania
+677,UKR,Ukraine,RUS,Russian Federation
+678,UKR,Ukraine,SVK,Slovakia
+694,VAT,Holy See,ITA,Italy
