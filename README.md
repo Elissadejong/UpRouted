@@ -1,15 +1,15 @@
 ![alt text](istockphoto-996964906-612x612.jpg "UpRouted")
 
 # UpRouted
-================
->uproot verb 
-up·​root | \ (ˌ)əp-ˈrüt  , -ˈru̇t  \
-uprooted; uprooting; uproots
-Definition of uproot
-transitive verb
-1 : to remove as if by pulling up
-2 : to pull up by the roots
-3 : to displace from a country or traditional habitat
+
+>uproot verb<br> 
+up·​root | \ (ˌ)əp-ˈrüt  , -ˈru̇t  \<br>
+uprooted; uprooting; uproots<br>
+Definition of uproot<br>
+transitive verb<br>
+1 : to remove as if by pulling up<br>
+2 : to pull up by the roots<br>
+3 : to displace from a country or traditional habitat<br>
 
 ## The research in a nutshell
 Human trafficking is a form of modern-day slavery and includes recruiting, transporting, receiving or housing human beings through the use of force, fraud or coercion, for the purpose of exploitation. Combating human trafficking is challenging, like other types of organized crime, due to its subsurfaced nature, the use of well-structured (trans)national criminal networks and the fact that victims are often unable or afraid to seek help from law enforcement agencies. The following research aims to visualize the data on human trafficking in European countries and, in combination with a cluster analysis of the data of these countries, uncover possible human trafficking routes. The key purpose is to generate a way to find the routes of least resistance, weighted by EU membership in this case, as a procedure that could be recycled using different input- and conditional features. The core dataset was obtained from [THE COUNTER TRAFFICKING DATA COLLABORATIVE](https://www.ctdatacollaborative.org), made available in 2021. The references to the other datasets can be found in the 'countries data' chapter. 
